@@ -39,3 +39,6 @@ function calculatetotal(){
 var weight = 60;
 var beeSting = 8.666666667;
 var total;
+console.log("It takes " + total + " "+"bee stings to kill this animal.");
+
+
